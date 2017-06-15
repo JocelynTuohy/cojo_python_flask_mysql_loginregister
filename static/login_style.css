@@ -1,0 +1,15 @@
+#wrapper{
+  margin: 10px auto 10px auto;
+  width: 600px;
+  height: 500px;
+  display: inline-block;
+  vertical-align: top;
+}
+form{
+  display: inline-block;
+  width: 290px;
+  vertical-align: top;
+}
+form *{
+  display: block;
+}
